@@ -7,6 +7,8 @@ import PostDetails from './components/PostDetails';
 import NavBar from './components/NavBar';
 
 //this will run as soon as server is started
+
+console.log("hi");
 export default class App extends Component {
   render() {
     return (
